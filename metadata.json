@@ -1,0 +1,7 @@
+{
+  "name": "Dra. Raphaella Saldanha - Harmonização Facial",
+  "description": "Landing page premium focada em conversão para harmonização facial, com quiz interativo e visual de alta autoridade.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
